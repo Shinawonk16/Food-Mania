@@ -1,0 +1,39 @@
+@using Food_Mania.Models.Dtos
+@model BaseResponse<CustomerDto>
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+@if (ViewBag.Message != null)
+{
+    <h2>@ViewBag.Message</h2>
+}
+
+
+@* <body>
+    <div>
+           <div>
+            <label>
+                UserName:@Model.Data.UserName
+            </label>
+        </div>
+        <div>
+            <label>
+                Balance:@Model.Data.Wallet
+            </label>
+        </div>
+      
+
+    </div>
+
+</body> *@
+<a class="btn-primary btn" asp-controller="User" text asp-action="Customer">Back</a>
+
+<style>
+    body {
+        background-color: lightblue;
+        font-size: large;
+        font-weight: 900;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+</style>
+

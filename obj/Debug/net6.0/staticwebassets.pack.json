@@ -1,0 +1,549 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Food_Mania.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Food_Mania.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\5e023ec2-4227-450a-bb2e-4a31c6200e80.jpeg",
+      "PackagePath": "staticwebassets\\Images\\5e023ec2-4227-450a-bb2e-4a31c6200e80.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\66d32518-61e2-45fc-8a9e-2764ca94042c.jpeg",
+      "PackagePath": "staticwebassets\\Images\\66d32518-61e2-45fc-8a9e-2764ca94042c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\6e2e2991-7898-442e-83d6-e75fdfaf1a61.jpeg",
+      "PackagePath": "staticwebassets\\Images\\6e2e2991-7898-442e-83d6-e75fdfaf1a61.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\81489001-a7e1-4513-98d8-1f30171665b5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\81489001-a7e1-4513-98d8-1f30171665b5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\8f08245f-9c83-4b9b-83b2-6c550f6c56bc.jpeg",
+      "PackagePath": "staticwebassets\\Images\\8f08245f-9c83-4b9b-83b2-6c550f6c56bc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\95d3de08-bd39-4aa2-aa4f-59fa93e5f26e.jpeg",
+      "PackagePath": "staticwebassets\\Images\\95d3de08-bd39-4aa2-aa4f-59fa93e5f26e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\Cuisines.jpg",
+      "PackagePath": "staticwebassets\\Images\\Cuisines.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\bed8eae2-86b8-42f7-b774-731f13df579f.jpeg",
+      "PackagePath": "staticwebassets\\Images\\bed8eae2-86b8-42f7-b774-731f13df579f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\chich.jpg",
+      "PackagePath": "staticwebassets\\Images\\chich.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\chickenpicceta.jpg",
+      "PackagePath": "staticwebassets\\Images\\chickenpicceta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\dev.jpg",
+      "PackagePath": "staticwebassets\\Images\\dev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\download.jpg",
+      "PackagePath": "staticwebassets\\Images\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\e9f13e1d-2201-4214-a3f4-ad8431d5d161.jpeg",
+      "PackagePath": "staticwebassets\\Images\\e9f13e1d-2201-4214-a3f4-ad8431d5d161.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\eba.jpg",
+      "PackagePath": "staticwebassets\\Images\\eba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\eee21750-364c-4cd7-ac5e-cfdc64d57182.jpeg",
+      "PackagePath": "staticwebassets\\Images\\eee21750-364c-4cd7-ac5e-cfdc64d57182.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\fed.jpg",
+      "PackagePath": "staticwebassets\\Images\\fed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\ggg.jpg",
+      "PackagePath": "staticwebassets\\Images\\ggg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\gha.jpg",
+      "PackagePath": "staticwebassets\\Images\\gha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\images.jpg",
+      "PackagePath": "staticwebassets\\Images\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\jollofwar.jpg",
+      "PackagePath": "staticwebassets\\Images\\jollofwar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\manai2.jpg",
+      "PackagePath": "staticwebassets\\Images\\manai2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\mani.jpg",
+      "PackagePath": "staticwebassets\\Images\\mani.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\mania.png",
+      "PackagePath": "staticwebassets\\Images\\mania.png"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\master-chef-logo-vector.webp",
+      "PackagePath": "staticwebassets\\Images\\master-chef-logo-vector.webp"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\realmai.jpg",
+      "PackagePath": "staticwebassets\\Images\\realmai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\recip.jpg",
+      "PackagePath": "staticwebassets\\Images\\recip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\rice.jpg",
+      "PackagePath": "staticwebassets\\Images\\rice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\see.jpg",
+      "PackagePath": "staticwebassets\\Images\\see.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\tae.jpg",
+      "PackagePath": "staticwebassets\\Images\\tae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\wd.jpg",
+      "PackagePath": "staticwebassets\\Images\\wd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\werice.jpg",
+      "PackagePath": "staticwebassets\\Images\\werice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\Images\\za.jpg",
+      "PackagePath": "staticwebassets\\Images\\za.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\css\\addFood.css",
+      "PackagePath": "staticwebassets\\css\\addFood.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\css\\foods.css",
+      "PackagePath": "staticwebassets\\css\\foods.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\159ce3ba-a47b-428c-838f-25ed736c1dd4_images.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\159ce3ba-a47b-428c-838f-25ed736c1dd4_images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\1f17afdb-2ddd-4439-83d2-93e6519b16b3_recip.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\1f17afdb-2ddd-4439-83d2-93e6519b16b3_recip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\2c80efe8-e0f3-486a-bec1-d6b260ac9d20_recip.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\2c80efe8-e0f3-486a-bec1-d6b260ac9d20_recip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\2f3108b2-77a3-4936-990d-b4eecc00e388_tae.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\2f3108b2-77a3-4936-990d-b4eecc00e388_tae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\3d3c6c9d-f0ba-48da-8ed6-59ea2d05bc5e_images.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\3d3c6c9d-f0ba-48da-8ed6-59ea2d05bc5e_images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\40648425-f64e-4446-be80-7619507a8bea_za.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\40648425-f64e-4446-be80-7619507a8bea_za.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\7c3c3231-5f2a-423c-b498-78d5326f76cf_za.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\7c3c3231-5f2a-423c-b498-78d5326f76cf_za.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\89b01516-cefc-4006-91ea-6371bb2ab628_tae.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\89b01516-cefc-4006-91ea-6371bb2ab628_tae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\9f10ad54-e606-4625-934f-c93495935fd9_images.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\9f10ad54-e606-4625-934f-c93495935fd9_images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\a0d5ed7a-d161-4e36-9505-e752aa4c07d3_recip.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\a0d5ed7a-d161-4e36-9505-e752aa4c07d3_recip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\aec8d567-f1e0-404a-b94d-b4a18905b140_recip.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\aec8d567-f1e0-404a-b94d-b4a18905b140_recip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\b120e5b6-84ff-41e2-b765-c8f6a548fb67_rice.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\b120e5b6-84ff-41e2-b765-c8f6a548fb67_rice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\c17deb3b-0a4b-4c73-96dd-d66e4ced2509_fed.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\c17deb3b-0a4b-4c73-96dd-d66e4ced2509_fed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\c47a145e-5778-425a-8a12-f3a5271dea95_chich.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\c47a145e-5778-425a-8a12-f3a5271dea95_chich.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\d23d35ec-448f-49e4-b05f-d3fabf7a0def_fed.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\d23d35ec-448f-49e4-b05f-d3fabf7a0def_fed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\dae888bb-f67a-44c9-b35c-f86d1a4c0c85_tae.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\dae888bb-f67a-44c9-b35c-f86d1a4c0c85_tae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\dd8203d5-a582-4e61-a71e-7730562217f3_recip.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\dd8203d5-a582-4e61-a71e-7730562217f3_recip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\e2808dc7-9fc9-40f8-be5d-54bc85b8744c_tae.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\e2808dc7-9fc9-40f8-be5d-54bc85b8744c_tae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\e63925a6-f8ac-46a2-960b-acbaae989691_fed.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\e63925a6-f8ac-46a2-960b-acbaae989691_fed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\e69a0ead-af7d-4a24-bed9-aaddcfd83c62_rice.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\e69a0ead-af7d-4a24-bed9-aaddcfd83c62_rice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\food\\images\\fdedc5a4-f852-466f-8ea9-43c7af763004_recip.jpg",
+      "PackagePath": "staticwebassets\\food\\images\\fdedc5a4-f852-466f-8ea9-43c7af763004_recip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\js\\w3.js",
+      "PackagePath": "staticwebassets\\js\\w3.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\default\\dev.jpg",
+      "PackagePath": "staticwebassets\\styles\\default\\dev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\default\\download.jpg",
+      "PackagePath": "staticwebassets\\styles\\default\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\default\\e9f13e1d-2201-4214-a3f4-ad8431d5d161.jpeg",
+      "PackagePath": "staticwebassets\\styles\\default\\e9f13e1d-2201-4214-a3f4-ad8431d5d161.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\default\\eba.jpg",
+      "PackagePath": "staticwebassets\\styles\\default\\eba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\default\\eee21750-364c-4cd7-ac5e-cfdc64d57182.jpeg",
+      "PackagePath": "staticwebassets\\styles\\default\\eee21750-364c-4cd7-ac5e-cfdc64d57182.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\default\\fed.jpg",
+      "PackagePath": "staticwebassets\\styles\\default\\fed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\default\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\styles\\default\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\default\\ggg.jpg",
+      "PackagePath": "staticwebassets\\styles\\default\\ggg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\default\\gha.jpg",
+      "PackagePath": "staticwebassets\\styles\\default\\gha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\default\\pizza-for-2-picture-id1016734466.jpeg",
+      "PackagePath": "staticwebassets\\styles\\default\\pizza-for-2-picture-id1016734466.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\default\\see.jpg",
+      "PackagePath": "staticwebassets\\styles\\default\\see.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\index.css",
+      "PackagePath": "staticwebassets\\styles\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\zafru\\OneDrive\\Documents\\Food_Mania\\wwwroot\\styles\\login.css",
+      "PackagePath": "staticwebassets\\styles\\login.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Food_Mania.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Food_Mania.props",
+      "PackagePath": "build\\Food_Mania.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Food_Mania.props",
+      "PackagePath": "buildMultiTargeting\\Food_Mania.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Food_Mania.props",
+      "PackagePath": "buildTransitive\\Food_Mania.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

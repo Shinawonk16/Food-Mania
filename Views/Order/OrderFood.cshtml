@@ -1,0 +1,38 @@
+@using Food_Mania.Models.Dtos
+@model OrderDto
+@{
+    Layout = "~/Views/Shared/_SecondLayOut.cshtml";
+}
+@if (ViewBag.Message != null)
+{
+    <h2>@ViewBag.Message</h2>
+}
+<div class="row">
+    <div class="col-md-12">
+        <h2>OrderFood</h2>
+        <form asp-action="OrderFood">
+            <div class="form-group">
+                <label for="Quantity">Quantity</label>
+                <input type="number" name="Quantity" id="Quantity" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="Street">Street</label>
+                <input for="Street" type="text" name="Street" id="Street" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="City" class="control-label">City</label>
+                <input type="text" name="City" id="City" class="form-control" />
+         
+            <div class="form-group">
+                <label for="State">State</label>
+                <input type="text" name="State" id="State" class="form-control" />
+            </div>
+            <div>
+                <label for="State">Sure</label>
+                <input type="text" name="" id="" class="form-control"
+                    placeholder="Are you sure you want to place this order" />
+            </div>
+            <button type="submit">Submit</button>
+        </form>        
+
+<a class="btn-primary btn" asp-controller="Customer" text asp-action="FoodStatus">Back</a>

@@ -1,0 +1,33 @@
+@using Food_Mania.Models.Dtos
+@model CustomerDto
+@{
+    Layout = "~/Views/Shared/_SecondLayOut.cshtml";
+}
+<div class="row">
+    <div class="col-md-12">
+        <h2>Update Profile</h2>
+        <form asp-action="Update">
+            <div class="form-group">
+                <label for="w">First Name</label>
+                <input for="FirstName" type="text" name="FirstName" id="FirstName" class="form-control"
+                    value="@Model.Users.FirstName" />
+            </div>
+            <div class="form-group">
+                <label for="LastName">Last Name</label>
+                <input type="text" name="LastName" id="LastName" class="form-control" value="@Model.Users.LastName" />
+            </div>
+            <div class="form-group">
+                <label for="PhoneNumber">Phone Number</label>
+                <input type="number" name="PhoneNumber" id="phone" class="form-control"
+                    value="@Model.Users.PhoneNumber" />
+            </div>
+            <div class="form-group">
+                <label for="Email">Email</label>
+                <input type="email" name="Email" id="email" class="form-control" value="@Model.Users.Email" />
+            </div>
+
+
+            <button type="submit">Update</button>
+        </form>
+    </div>
+</div>

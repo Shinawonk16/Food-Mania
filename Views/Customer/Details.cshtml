@@ -1,0 +1,66 @@
+@using Food_Mania.Models.Dtos
+@model BaseResponse<CustomerDto>
+@{
+    @* Layout = "~/Views/Shared/_SecondLayOut.cshtml"; *@
+}
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+
+
+
+<body>
+    <div>
+        <div>
+            <label>
+                UserName:@Model.Data.Users.UserName
+            </label>
+        </div>
+        <div>
+            <label>
+                FirstName:@Model.Data.Users.FirstName
+            </label>
+        </div>
+        <div>
+            <label>
+                LastName:@Model.Data.Users.LastName
+            </label>
+        </div>
+        <div>
+            <label>
+                GENDER:@Model.Data.Users.Gender
+            </label>
+        </div>
+        <div>
+            <label>
+                ROLE:@Model.Data.Users.Role
+            </label>
+        </div>
+        @* <div>
+        <label>
+        DATE OF BIRTH:@Model.Data.DathOfBirth
+        </label>
+        </div> *@
+        @* <div>
+        <label>
+        NEXT OF KIN:@Model.Data.NextOfKin
+        </label>
+        </div> *@
+        <div>
+            <label>
+                PHONENUMBER:@Model.Data.Users.PhoneNumber
+            </label>
+        </div>
+    </div>
+
+</body>
+<a class="btn-primary btn" asp-controller="Customer" text asp-action="GetAll">Back</a>
+
+<style>
+    body {
+        background-color: lightblue;
+        font-size: large;
+        font-weight: 900;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+</style>
+

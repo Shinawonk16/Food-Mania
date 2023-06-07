@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Food_Mania
+build_property.RootNamespace = Food_Mania
+build_property.ProjectDir = C:\Users\zafru\OneDrive\Documents\Food_Mania\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\zafru\OneDrive\Documents\Food_Mania
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Customer/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Customer/CheckWallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ2hlY2tXYWxsZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Customer/FoodStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRm9vZFN0YXR1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Customer/FundWallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRnVuZFdhbGxldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Customer/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Customer/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Food/AddFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxBZGRGb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Food/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Food/UpdateFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxVcGRhdGVGb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Order/DeliveryStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGVsaXZlcnlTdGF0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Order/GetAllOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0QWxsT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Order/OrderFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJGb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Order/OrderProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Shared/ThirdLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRoaXJkTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Shared/_SecondLayOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWNvbmRMYXlPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Staff/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Staff/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Staff/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Staff/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Staff/StaffProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcU3RhZmZQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Staff/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/User/Cook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/User/Customer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/User/DeliveryMan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxpdmVyeU1hbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/User/Manager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxNYW5hZ2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/User/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zafru/OneDrive/Documents/Food_Mania/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yhcwtjdtw6

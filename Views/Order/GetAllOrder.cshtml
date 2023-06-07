@@ -1,0 +1,41 @@
+@using Food_Mania.Models.Dtos
+
+@model IEnumerable<Models.Dtos.FoodOrderDto>
+    <link rel="stylesheet" href="~/css/foods.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    @if (@Model == null || @Model.Count() == 0)
+    {
+      <h1>No Orders yet</h1>
+    }
+    <div class="images">
+           @foreach (var food in @Model)
+        {
+         <div class="post-image">
+            @if (food.FoodDto.Status != Food_Mania.Models.Enum.FoodStatus.NotAvailable)
+            {   
+                    <img src="~/food/images/@food.FoodDto.Image" alt="food image">
+                    <h6>TYPE: @food.FoodDto.Type</h6>
+                    <p>DESCRIPTION: @food.FoodDto.Description</p>
+                    <p>PRICE: ₦ @food.FoodDto.Price</p>
+                    <p>STATUS: @food.FoodDto.Status</p>
+                    <p>ORDERED TIME: @food.OrderDto.CreatedAt</p>
+                    if (food.OrderDto.IsDelivered == true)
+                    {
+                       <div class="btn-group">
+                                <a class="btn-warning btn" asp-action="OrderProfile" asp-controller="Order" asp-route-id=@food.OrderDto.Id></a>        
+                                <button class="btn-danger btn" asp-action="DeliveryStatus" asp-controller="Order" asp-route-Id=@food.OrderDto.Id disabled>Mark as Delivered</button>
+                            </div>              
+                    }
+                    else
+                    {
+                            <div class="btn-group">
+                                <a class="btn-warning btn" asp-action="OrderProfile" asp-controller="Order" asp-route-id=@food.OrderDto.Id>Customer</a>
+                                <a class="btn-danger btn" asp-action="DeliveryStatus" asp-controller="Order" asp-route-id=@food.OrderDto.Id >Mark as Delivered</a>
+                            </div>              
+                    }
+            }
+             </div>
+        }
+@* <a class="btn-primary btn" asp-controller="User" text asp-action="Manager">Back</a> *@
+
+    </div>

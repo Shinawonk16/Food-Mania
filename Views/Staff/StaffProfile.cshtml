@@ -1,0 +1,43 @@
+@using Food_Mania.Models.Dtos
+@model StaffDto
+<div>
+    <div>
+        <label>
+            NAME:@Model.User.UserName
+        </label>
+    </div>
+
+    <div>
+        <label>
+            GENDER:@Model.Gender
+        </label>
+    </div>
+    <div>
+        <label>
+            ROLE:@Model.Role
+        </label>
+    </div>
+    <div>
+        <label>
+            DATE OF BIRTH:@Model.DathOfBirth
+        </label>
+    </div>
+
+    <div>
+        <label>
+            PHONENUMBER:@Model.User.PhoneNumber
+        </label>
+    </div>
+     <div>
+        <label>
+            CreatedAt:@Model.CreatedAt
+        </label>
+    </div>
+     <div>
+        <label>
+            UpdatedAt:@Model.UpdatedAt
+        </label>
+    </div>
+
+</div>
+

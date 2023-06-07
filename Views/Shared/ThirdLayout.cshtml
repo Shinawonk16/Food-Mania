@@ -1,0 +1,178 @@
+﻿@* <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>@ViewData["Title"] - Food_Mania</title>
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/Food_Mania.styles.css" asp-append-version="true" />
+</head>
+<body>
+<header>
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+<div class="container-fluid">
+<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Food_Mania</a>
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+aria-controls="navbarSupportedContent"
+aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+<ul class="navbar-nav flex-grow-1">
+<li class="nav-item">
+<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+</li>
+<li class="nav-item">
+<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+<div class="container">
+<main role="main" class="pb-3">
+@RenderBody()
+</main>
+</div>
+
+<footer class="border-top footer text-muted">
+<div class="container">
+&copy; 2023 - Food_Mania - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+</div>
+</footer>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html> *@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FoodMania</title>
+    <Img></Img>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/styles/index.css">
+    <link rel="stylesheet" href="~/styles/default/font-awesome.min.css">
+</head>
+
+<body>
+    <header class="header-container">
+
+        <div class="logo-container">
+        </div>
+
+        <div class="container">
+            <nav class="nav-links">
+                <ul class="list-no-style">
+
+                    <img src="~/Images/realmai.jpg" alt="" height="85px" width="100px"
+                        style="border-radius: 50%; margin-top: -20px;">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                    </li>
+                    <a href="Views\Home\AboutUs.html" style="text-decoration: none; color: black;">
+                        <li>About</li>
+                    </a>
+                    <li>How It Works</li>
+
+
+                    @* <img src="~/Images/realmai.jpg" alt="" height="85px" width="100px"
+                    style="border-radius: 50%; margin-top: -20px;"> *@
+                </ul>
+            </nav>
+
+
+
+            <style>
+                .list-no-style {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: right;
+                    font-weight: 700;
+                    gap: 25px;
+
+
+                }
+
+                h1 {
+                    font-weight: bolder;
+                    background-color: cornflowerblue;
+                    display: inline-flex;
+                @*color:lightblue;*@flex-direction: column;
+                    text-align: center;
+                    justify-content: space-between;
+
+
+
+                }
+
+                h3:hover {
+                    color: #5e71ff;
+                @*--gradient-color:#ff4b3d;*@transition: 2s;
+                @*color:linear-gradient(102deg,#5e71ff,0%,#ff4b3d100%);*@
+                }
+
+
+                @*img{justify-content:center;}*@
+            </style>
+    </header>
+    <div id="design">
+        <div id="text">
+            <div style="width:10px;height:6px">
+                <p>
+                <h1>Welcome To <mark>Food_Mania</mark> wonderful serenity has taken possession of my entire soul, like
+                    these sweet mornings of spring which I enjoy..</h1>
+                </p>
+            </div>
+        </div>
+
+
+    </div>
+    <div id="image">
+        <div id="child">
+            <div style="width:10px;height:6px">
+                <p>
+                <h1>See our <mark>Masterious_Mania Chefs</mark> Cooking the world most delicious Dishes that will taken possession of your entire soul, like
+                    these sweet mornings of spring which you will enjoy..</h1>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div id="picture">
+        <div id="direct">
+           <div  style="width:10px;height:6px">
+                <p>
+                <h1 >See our <mark>Food_Mania</mark> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita iure commodi aut obcaecati, vitae aperiam dolores tenetur, alias illum ea eaque quis excepturi omnis dicta. Similique porro illum aut quaerat?</h1>
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @* <footer class="border-top footer text-muted">
+    <div class="container">
+    &copy; 2022 - MVC_Project - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+    </footer> *@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

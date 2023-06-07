@@ -1,0 +1,35 @@
+@using System.Security.Claims
+@{
+    ViewData["Title"] = "Customer Dashboard";
+}
+<div class="">
+    <div class="row">
+        <div class="col-md-2 border" style="min-height: 520px; padding: 0px; margin: 0px">
+            <img src="~/Images/manai2.jpg" alt="" height="50px" width="90px"
+                style="border-radius: 20%; justify-content: center">
+            <a class="dropdown-item active" asp-action="Customer" asp-controller="User">Dashboard</a>
+            <a class="dropdown-item" asp-action="FundWallet" asp-controller="Customer"
+                asp-route-id='@User.FindFirst(ClaimTypes.NameIdentifier)?.Value'>Fund Wallet</a>
+                
+            <a class="dropdown-item" asp-action="CheckWallet" asp-controller="Customer"
+                asp-route-id='@User.FindFirst(ClaimTypes.NameIdentifier)?.Value'>Check Banlance</a>
+            <a class="dropdown-item" asp-action="FoodStatus" asp-controller="Customer"
+                asp-route-id='@User.FindFirst(ClaimTypes.NameIdentifier)?.Value'>View FoodMenu</a>
+            <a class="dropdown-item" asp-action="Details" asp-controller="Customer"
+                asp-route-id='@User.FindFirst(ClaimTypes.NameIdentifier)?.Value'>View profile</a>
+            <a class="dropdown-item" asp-action="Update" asp-controller="Customer"
+                asp-route-id='@User.FindFirst(ClaimTypes.NameIdentifier)?.Value'>update profile</a>
+
+
+
+        </div>
+        <div class="row col-md-10 pt-3">
+            <div class="col-md-12 text-center">
+                <h3>@ViewData["Title"]</h3>
+            </div>
+            <div class="col-md-12">
+
+            </div>
+        </div>
+    </div>
+</div>

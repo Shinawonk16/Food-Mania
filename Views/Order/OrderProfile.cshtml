@@ -1,0 +1,63 @@
+@using Food_Mania.Models.Dtos
+@model OrderDto
+@{
+
+}
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+<body>
+    <div>
+        <div>
+            <div>
+        <label>
+        UserName:@Model.CustomerDto.UserName
+    </label>
+    </div>
+    
+     <div>
+        <label>
+        Email:@Model.CustomerDto.Users.Email
+    </label>
+    </div>
+    <div>
+        <label>
+        PhoneNumber:@Model.CustomerDto.Users.PhoneNumber
+    </label>
+    </div>
+
+    <div>
+        <label>
+        GENDER:@Model.CustomerDto.Gender
+    </label>
+    </div>
+
+   
+    <div>
+        <label>
+        STREET:@Model.Street
+    </label>
+    </div>
+    <div>
+        <label>
+        CITY:@Model.State
+    </label>
+    </div>
+    <div>
+        <label>
+        STATE:@Model.City
+    </label>
+    </div>
+        </div>
+         
+
+        <style>
+            body {
+                background-color: rgb(50, 112, 133);
+                font-size: large;
+                font-weight: 900;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+            }
+        </style>
+    </div>
+</body>
+<a class="btn-primary btn" asp-controller="Order" text asp-action="GetAllOrder">Back</a>

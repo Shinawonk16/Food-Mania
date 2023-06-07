@@ -1,0 +1,52 @@
+@using Food_Mania.Models.Dtos
+@model BaseResponse<StaffDto>
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+
+
+
+<body>
+    <div>
+        <div>
+            <label>
+                USERNAME:@Model.Data.User.UserName
+            </label>
+        </div>
+
+        <div>
+            <label>
+                GENDER:@Model.Data.User.Gender
+            </label>
+        </div>
+        <div>
+            <label>
+                ROLE:@Model.Data.User.Role
+            </label>
+        </div>
+        <div>
+            <label>
+                DATE OF BIRTH:@Model.Data.DathOfBirth
+            </label>
+        </div>
+        @* <div>
+        <label>
+        NEXT OF KIN:@Model.Data.NextOfKin
+        </label>
+        </div> *@
+        <div>
+            <label>
+                PHONENUMBER:@Model.Data.User.PhoneNumber
+            </label>
+        </div>
+
+    </div>
+    
+</body>
+ <a class="btn-primary btn" asp-controller="Staff" text asp-action="GetAll">Back</a>
+<style>
+    body{
+        background-color: rgb(50, 112, 133);
+                font-size: large;
+                font-weight: 900;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+</style>

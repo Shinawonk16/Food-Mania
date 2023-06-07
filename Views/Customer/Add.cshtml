@@ -1,0 +1,60 @@
+@using Food_Mania.Models.Dtos
+@model CreateCustomerRequestModel
+@{
+    Layout = "~/Views/Shared/_SecondLayOut.cshtml";
+}
+<div class="row">
+    <div class="col-md-12">
+        <h2>Register</h2>
+        <form asp-action="Add">
+            <div class="form-group">
+                <label for="FirstName">First Name</label>
+                <input for="FirstName" type="text" name="FirstName" id="FirstName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="LastName">Last Name</label>
+                <input type="text" name="LastName" id="LastName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="Email" class="control-label">Email</label>
+                <input type="email" name="Email" id="Email" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="PhoneNumber">Phone Number</label>
+                <input type="number" name="PhoneNumber" id="phone" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="Password">Password</label>
+                <input type="password" name="Password" id="password" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="Gender">Gender</label>
+                <select name="Gender" class="form-control">
+                    <option value="none" disabled>--select gender--</option>
+                    <option value="1">Male</option>
+                    <option value="2">Female</option>
+                    <option value="3">Others</option>
+                </select>
+            </div>
+            @* <div class="form-group">
+            <label for="Role">Role</label>
+            <select name="Role" class="form-control">
+            <option value="none" disabled>--select role--</option>
+            <option value="1">Manager</option>
+            <option value="2" >Cook</option>
+            <option value="3" >Cleaner</option>
+            <option value="4" >Transporter</option>
+            </select>
+            </div> *@
+            @* <div class="form-group">
+                <label for="DathOfBirth">Date of Birth</label>
+                <input type="date" name="DathOfBirth" id="DateOfBirth" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="NextOfKin">Next Of Kin</label>
+                <input type="text" name="NextOfKin" id="NextOfKin" class="form-control" />
+            </div> *@
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Food_Mania</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/styles/index.css">
+    <link rel="stylesheet" href="~/styles/default/font-awesome.min.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/addFood.css" />
+</head>
+
+<body>
+    <header class="header-container">
+
+        <div class="logo-container">
+        </div>
+        <hr>
+        <hr>
+        <hr>
+        <hr>
+        <hr>
+        <div class="container">
+            <nav class="nav-links">
+                <ul class="list-no-style">
+                    <img src="~/Images/manai2.jpg" alt="" height="85px" width="100px"
+                        style="border-radius: 50%; margin-top: -20px;">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                    </li>
+                    <a href="Views\Home\AboutUs.cshtml" style="text-decoration: none; color: black;">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark">AboutUs</a>
+                        </li>
+                    </a>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark">How it Works</a>
+                    </li>
+
+
+                </ul>
+            </nav>
+        </div>
+        <style>
+            .list-no-style {
+                display: flex;
+                flex-direction: row;
+                justify-content: left;
+                font-weight: 700;
+                gap: 25px;
+
+
+            }
+
+            img {
+                justify-content: center;
+            }
+
+            body {
+                background-color: lightblue;
+            }
+        </style>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @* <footer class="border-top footer text-muted">
+    <div class="container">
+    &copy; 2022 - MVC_Project - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+    </footer> *@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

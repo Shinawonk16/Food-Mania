@@ -1,0 +1,64 @@
+@using Food_Mania.Models.Dtos
+@model FoodDto
+@{
+    Layout = "~/Views/Shared/_SecondLayOut.cshtml";
+}
+<div class="row">
+    <div class="col-md-12">
+        <h2>Add Food</h2>
+        <form asp-action="AddFood" method="post" asp-controller="Food" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="Type">Type</label>
+                <input for="Type" type="text" name="Type" id="Type" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="Price">Price</label>
+                <input type="number" name="Price" id="Price" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="NumberOfPlates" class="control-label">Number Of Plates</label>
+                <input type="number" name="NumberOfPlates" id="NumberOfPlates" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="Description">Description</label>
+                <input type="text" name="Description" id="Description" class="form-control" />
+            </div>
+             <div class="form-group">
+                <label for="CategoryName">Category-Name</label>
+                <input type="text" name="CategoryName" id="CategoryName" class="form-control" />
+            </div>
+              <div class="form-group">
+                <label for="CategoryDescription">Category-Description</label>
+                <input type="text" name="CategoryDescription" id="CategoryDescription" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="Image">ImageUrl</label>
+                <input type="file" asp-for="Image" name="Image" id="Image" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="Status">Status</label>
+                <br>
+                <select name="Status" class="form-control">
+                    <option value="none" disabled>--select Status--</option>
+                    <option value="1">Available</option>
+                    <option value="2">Processing</option>
+                    <option value="3">NotAvailable</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="AvailableTime">Available-Time</label>
+                <input type="datetime-local" name="AvailableTime" id="AvailableTime" class="form-control" />
+            </div>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</div>
+            <a class="btn-primary btn" asp-controller="User" text asp-action="Manager">Back</a>
+
+<script>
+    @* alert("Food") *@
+</script>
+
+
+
+

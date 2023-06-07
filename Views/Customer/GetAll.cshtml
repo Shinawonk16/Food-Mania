@@ -1,0 +1,64 @@
+@using Food_Mania.Models.Dtos
+@model BaseResponse<IEnumerable<CustomerDto>>
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/font-awesome.min.css" />
+<script src="~/js/w3.js"></script>
+<div class="form-group">
+    <i class="fa fa-search-minus"></i><input type="search" id="search" class="form-control"
+        oninput="w3.filterHTML('#list', '.staff', this.value)" placeholder="Search for Customer">
+</div>
+@if (@Model == null || @Model.Data.Count() == 0)
+{
+    <h1>No Customer yet</h1>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table" id="list">
+            <caption>List of Customer</caption>
+            <thead>
+                <tr>
+                    <th scope="col">S/N</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Phone Number</th>
+                    <th scope="col">Date Of Birth</th>
+                    <th scope="col">Gender</th>
+                    @* <th scope="col">CreatedAt</th> *@
+                    <th scope="col">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var staff in @Model.Data)
+                {
+                    <tr class="staff">
+                        <th scope="row">@staff.Users.Id</th>
+                        <td>@staff.Users.UserName</td>
+                        <td>@staff.Users.Email</td>
+                        <td>@staff.Users.PhoneNumber</td>
+                        <td>@staff.Users.Gender.ToString()</td>
+                        <td>@staff.CreatedAt.</td>
+
+                        <td>
+                            <div class="btn-group" style="gap: 10px;">
+                                <div>
+                                    <a class="btn-primary btn" asp-action="Details" asp-route-id=@staff.Users.Id>View</a>
+                                </div>
+                                @* <div>
+                        <a class="btn-warning btn" asp-action="Update" asp-route-id=@staff.Users.Id>Edit</a>
+                        </div> *@
+                                <div>
+                                    <a class="btn-danger btn" asp-action="Delete" asp-route-id=@staff.Users.Id>Delete</a>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+            
+
+        </table>
+        <a class="btn-primary btn" asp-controller="User" text asp-action="Manager">Back</a>
+    </div>
+}
